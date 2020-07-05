@@ -6,4 +6,20 @@ Tool yang digunakan untuk mulai mempelajari Node Js adalah Visual studio code at
 
 ## Pengertian Node Js
 
-Node js adalah aplikasi pemrograman web server berbasis javascript. sama halnya dengan PHP node bisa mengolah konten secara dinamis yang dikirimkan oleh browser aplikasi mobile. Biasanya node js digunakan untuk membangun web serve dan Rest API. Beberapa website yang menggunakan nodejs sebagai web servernya adalah trello, Netflix, paypal, linkedin, medium, Uber. Node js menggunakan bahasa pemrograman javascript. Node js menggunakan konsep Non-blocking I/O yang artinya tidak menunggu request sampai selesai terlebih dahulu untuk melayani request selanjutnya, sehingga node js relatif banyak menerima request dan lebih cepat. Node js mudah diperbesar kapasitasnya atau yang sering disebut Scale-up. Node js cocok digunakan untuk membangun Aplikasi yang Realtime seperti Chat, IoT dll.
+Node js adalah aplikasi pemrograman web server berbasis javascript. sama halnya dengan PHP node bisa mengolah konten secara dinamis yang dikirimkan oleh browser aplikasi mobile. Biasanya node js digunakan untuk membangun web serve dan Rest API. Beberapa website yang menggunakan nodejs sebagai web servernya adalah trello, Netflix, paypal, linkedin, medium, Uber. 
+
+Node js menggunakan bahasa pemrograman javascript. Node js menggunakan konsep Non-blocking I/O yang artinya tidak menunggu request sampai selesai terlebih dahulu untuk melayani request selanjutnya, sehingga node js relatif banyak menerima request dan lebih cepat. Node js mudah diperbesar kapasitasnya atau yang sering disebut Scale-up. Node js cocok digunakan untuk membangun Aplikasi yang Realtime seperti Chat, IoT dll.
+
+## Install Node Js
+
+Cara termudah install node js ke dalam perangkat Linux dengan menjalankan command berikut.
+
+> sudo apt install nodejs
+
+Kita juga dapat menginstall NPM yang merupakan Node Package Manager.
+
+> sudo apt install npm
+
+Untuk mengecek versi yang sudah diinstall, lakukam command berikut.
+
+> nodejs --version

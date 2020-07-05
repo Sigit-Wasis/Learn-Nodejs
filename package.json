@@ -1,0 +1,19 @@
+{
+  "name": "learn-nodejs",
+  "version": "1.0.0",
+  "description": "fundamental learn nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sigit-Wasis/Learn-Nodejs.git"
+  },
+  "author": "Sigit wasis subekti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sigit-Wasis/Learn-Nodejs/issues"
+  },
+  "homepage": "https://github.com/Sigit-Wasis/Learn-Nodejs#readme"
+}

@@ -23,3 +23,20 @@ Kita juga dapat menginstall NPM yang merupakan Node Package Manager.
 Untuk mengecek versi yang sudah diinstall, lakukam command berikut.
 
 > nodejs --version
+
+## Dasar IntelliJ IDEA
+
+IntelliJ IDEA adalah lingkungan pengembangan terintegrasi yang ditulis dalam Java untuk mengembangkan perangkat lunak komputer. Ini dikembangkan oleh JetBrains, dan tersedia sebagai edisi komunitas berlisensi Apache 2, dan dalam edisi komersial berpemilik.
+
+* Instalasi IntelliJ IDEA
+	* Di Ubuntu? IntelliJ IDEA juga tersedia sebagai paket snap. Jika Anda menggunakan Ubuntu 16.04 atau lebih baru, Anda dapat menginstal IntelliJ IDEA dari baris perintah.
+
+	> sudo snap install intellij-idea-community --classic
+
+	atau
+
+	> sudo snap install intellij-idea-ultimate --classic
+	
+	atau
+
+	> sudo snap install intellij-idea-educational --classic

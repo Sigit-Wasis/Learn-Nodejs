@@ -31,12 +31,14 @@ IntelliJ IDEA adalah lingkungan pengembangan terintegrasi yang ditulis dalam Jav
 * Instalasi IntelliJ IDEA
 	* Di Ubuntu? IntelliJ IDEA juga tersedia sebagai paket snap. Jika Anda menggunakan Ubuntu 16.04 atau lebih baru, Anda dapat menginstal IntelliJ IDEA dari baris perintah.
 
-	> sudo snap install intellij-idea-community --classic
+		> sudo snap install intellij-idea-community --classic
 
-	atau
+		atau
 
-	> sudo snap install intellij-idea-ultimate --classic
-	
-	atau
+		> sudo snap install intellij-idea-ultimate --classic
 
-	> sudo snap install intellij-idea-educational --classic
+		atau
+
+		> sudo snap install intellij-idea-educational --classic
+
+	* Download IntelliJ IDEA sesuai Sistem Operasi yang anda gunakan di [IntelliJ IDEA](https://www.jetbrains.com/idea/).

@@ -92,7 +92,7 @@ MyFunction();
 // atau 
 
 function FunctionKu() {
-	return "Function Ku";
+	return "Ini adalah Function Ku";
 }
 
 console.log(FunctionKu());

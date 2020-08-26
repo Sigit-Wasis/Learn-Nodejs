@@ -44,4 +44,4 @@ IntelliJ IDEA adalah lingkungan pengembangan terintegrasi yang ditulis dalam Jav
 	* Download IntelliJ IDEA sesuai Sistem Operasi yang anda gunakan di [IntelliJ IDEA](https://www.jetbrains.com/idea/).
 
 
-	Thank you!
+	> Thank you! 

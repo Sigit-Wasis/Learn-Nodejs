@@ -42,3 +42,6 @@ IntelliJ IDEA adalah lingkungan pengembangan terintegrasi yang ditulis dalam Jav
 		> sudo snap install intellij-idea-educational --classic
 
 	* Download IntelliJ IDEA sesuai Sistem Operasi yang anda gunakan di [IntelliJ IDEA](https://www.jetbrains.com/idea/).
+
+
+	Thank you!

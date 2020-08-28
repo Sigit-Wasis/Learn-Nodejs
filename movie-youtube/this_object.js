@@ -8,4 +8,20 @@ var myObj = {
     }
 }
 
+function myFunction() {
+    console.log('This is My Function');
+    console.log(this === global)
+}
+
 myObj.print()
+console.log('------------')
+myFunction();
+
+/* 
+    object this ini adalah cara kita mengakses property atau key didalam objek itu sendiri.
+    ----------------------------------------------------------------------------------------
+
+    jadi kesimpulannya jika kita mendefinisikan sebuah objek yang berisikan index sebagai function 
+    maka untuk mengakses index-index yang lain kita butuh keyword yang nama this dimana this ini 
+    mengacu pada object itu sendiri.
+ */
